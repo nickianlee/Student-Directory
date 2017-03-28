@@ -1,19 +1,13 @@
 //
-//  ViewController.h
+//  Teacher+CoreDataClass.m
 //  StudentDirectory
 //
 //  Created by nicholaslee on 28/03/2017.
 //  Copyright © 2017 nicholaslee. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import <CoreData/CoreData.h>
+#import "Teacher+CoreDataClass.h"
 
-
-
-@interface ViewController : UIViewController
-
-
+@implementation Teacher
 
 @end
-
